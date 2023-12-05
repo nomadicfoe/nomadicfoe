@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sumanth Paila
 - 👀 I’m interested in Data Science, Machine Learning, and Deep learning
-- 🌱 I’m currently a Computer Science Student at Andhra University College of Engineering
+- 🌱 I’m currently a B.Tech, Computer Science Student at Andhra University College of Engineering
 - 💞️ I’m looking to collaborate on Data Science Projects
 - 📫 You can reach me on Linkedin (https://www.linkedin.com/in/sumanth-paila-5688bb1b7/)
 
